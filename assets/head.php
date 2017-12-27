@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title><?php if($cache_settings->isCached('title')){echo $cache_settings->retrieve('title');}else{echo Setting::show('title');}?></title> 
 		<meta name="author" content="Timothy Gibbons">
-		<meta name="copyright" content="Copyright (C) Timothy Gibbons 2015;">
+		<meta name="copyright" content="Copyright (C) Retriever Tech Support 2017 - 2022;">
 		<meta name="description" content="Social-Media">
 		<meta name="keywords" content="Social-Media, Beta">
 		<meta charset="UTF-8">
